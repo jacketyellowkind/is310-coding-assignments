@@ -20,3 +20,5 @@ Helpful commands:
 Good luck!
 
 (And if you're interested in reading more about the episodes referenced in this maze, you can find the transcripts [here!](https://snarp.github.io/magnus_archives_transcripts/))
+
+AI workflow: I didn't use any AI. 
